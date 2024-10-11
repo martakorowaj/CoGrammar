@@ -1,0 +1,9 @@
+1. World Wide Web is a system of information that connects web pages using hyperlinks. Invented by Tim Berners-Lee in 1989. 
+
+2. Front-end deals with whatever the web user sees, the visual interface and interactivity of the website. Back-end deals with the behind-the-scenes of the website - so fetching and organising data, server operations - that brings the dynamic content to the user.
+
+3. Google query - when user starts typing, the back end will try and predict typing and fetch relevant results. 
+
+4. MERN is one of the most popular collections of technologies (stacks) for creating a web application. It uses MongoDB, Express, React and Node.js.
+
+ 
